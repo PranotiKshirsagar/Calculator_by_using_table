@@ -1,1 +1,0 @@
-# Calculator_by_using_table
